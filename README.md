@@ -6,3 +6,5 @@ There are potentially many bugs with this and I would not expect it to work well
 Using three angles won't work, at least one side length must be given.
 
 Libraries used:
+
+Colorama
